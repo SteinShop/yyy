@@ -1,0 +1,75 @@
+html{
+
+    height: 100%;
+
+}
+
+body{
+
+    height: 100%;
+    background-color: blueviolet;
+    margin: 0;
+
+}
+
+#container{
+
+    height: 100%;
+    background-color: gold;
+
+}
+
+#nav-bar{
+
+    height: 25%;
+    background-color: gray;
+
+}
+
+#cadastro
+{
+    height: 75%;
+    background-color: rebeccapurple;
+    display: block;
+
+}
+
+label{
+
+    cursor: pointer;
+
+}
+
+label:hover{
+
+    color: white;
+    font-weight: bold;
+    transition: 1s;
+
+}
+
+#editar
+{
+    height: 75%;
+    background-color: rgb(53, 51, 153);
+    display: block;
+
+}
+
+
+#deletar
+{
+    height: 75%;
+    background-color: rgb(153, 51, 51);
+    display: block;
+
+}
+
+#listar
+{
+    height: 75%;
+    background-color: rgb(51, 153, 114);
+    display: block;
+
+}
+
